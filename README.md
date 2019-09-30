@@ -10,5 +10,7 @@ Cliente de Facebook en línea de comando
 * Publicar un Link en el Wall del usuario que ejecuta la aplicación.
 
 ## Créditos
+Creado para la Evidencia del Curso Computacion en Java, Bruce Gonzalez Peters
 
 ## Licencia
+
